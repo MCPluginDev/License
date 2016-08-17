@@ -1,6 +1,8 @@
 # MCPluginDev General License #
 _Version 1.0, 29th April 2016_
 
+Copyright (c) Dylan Fox (FoxIshDaBest) 2016
+
 Copyright (c) Liam Townsley 2016
 
 All rights reserved.
